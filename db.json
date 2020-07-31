@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+     "id": 1,   
+     "nome": "Front End",
+     "descricao": "A frente do final?",
+     "cor": "#cbd1ff"
+    },
+    {
+        "id": 2,   
+        "nome": "Back End",
+        "descricao": "Agora a traseira??",
+        "cor": "#cbd1ff"
+    }
+  ]
+}
