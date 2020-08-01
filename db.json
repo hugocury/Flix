@@ -1,16 +1,169 @@
 {
   "categorias": [
     {
-     "id": 1,   
-     "nome": "Front End",
-     "descricao": "A frente do final?",
-     "cor": "#cbd1ff"
+      "id": 1,
+      "titulo": "Unplugged MTV",
+      "cor": "#6BD1FF"
     },
     {
-        "id": 2,   
-        "nome": "Back End",
-        "descricao": "Agora a traseira??",
-        "cor": "#cbd1ff"
+      "id": 2,
+      "titulo": "Acústico MTV",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 3,
+      "titulo": "Lual MTV",
+      "cor": "#9cd33b"
+    },
+    {
+      "id": 4,
+      "titulo": "Versões Acústicas",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Covers",
+      "cor": "red"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Skin and Bones",
+      "url": "https://www.youtube.com/watch?v=fOWfM2Sp5k4"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Liam - Unplugged MTV",
+      "url": "https://www.youtube.com/watch?v=z-7umhXUZ4c"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Noel Gallagher",
+      "url": "https://www.youtube.com/watch?v=ZkxJCXvqOFk"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Pearl Jam - Unplugged MTV",
+      "url": "https://www.youtube.com/watch?v=j3aG2dX4eXo"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Stone Temple Pilots - Unplugged MTV",
+      "url": "https://www.youtube.com/watch?v=Sr9CN8VeKb4"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Alanis Morissette - Unplugged MTV",
+      "url": "https://www.youtube.com/watch?v=fjaagQ_lm2A"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Acústico MTV - Charlie Brown Jr",
+      "url": "https://www.youtube.com/watch?v=OnVSsDlxAq4"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Acústico MTV - Cássia Eller",
+      "url": "https://www.youtube.com/watch?v=VxpaVsEo23o"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Acústico MTV - Lulu Santos",
+      "url": "https://www.youtube.com/watch?v=VXmjkhvu0RQ"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Acústico MTV - Cidade Negra",
+      "url": "https://www.youtube.com/watch?v=yiE3ep-cE8c"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Raimundos - Lual MTV",
+      "url": "https://www.youtube.com/watch?v=nZMAsVDSnRA&t=191s"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Marcelo D2 - Lual MTV?",
+      "url": "https://www.youtube.com/watch?v=fqXAKbvbs68"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Natiruts - Lual MTV",
+      "url": "https://www.youtube.com/watch?v=BLssqx9jvnA"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "O Rappa - Lual MTV",
+      "url": "https://www.youtube.com/watch?v=lVhht-lSnak"
+    },
+    {
+      "id": 7,
+      "categoriaId": 3,
+      "titulo": "Los Hermanos - Lual MTV",
+      "url": "https://www.youtube.com/watch?v=XejeLbi-NeU"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Eric Clapton - Layla",
+      "url": "https://www.youtube.com/watch?v=sQ5idZHWVn4"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Pearl Jam - Future Days",
+      "url": "https://www.youtube.com/watch?v=Acz4F_iIz_w"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Mumford and Sons - The Cave",
+      "url": "https://www.youtube.com/watch?v=We2hHZAneI8"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Dave Grohl - Everlong",
+      "url": "https://www.youtube.com/watch?v=qEyk4SlOks4"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "David Bowie - Ziggy Stardust (Ben Owen)",
+      "url": "https://www.youtube.com/watch?v=f4aD0Aoleks"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Elton John - Tiny Dancer (Khadhu Capanema)",
+      "url": "https://www.youtube.com/watch?v=2rq9oBqiiSE"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Ramble On - Led Zeppelin (Paige Hargrove)",
+      "url": "https://www.youtube.com/watch?v=TUNeXauTC20"
+    },
+    {
+      "categoriaId": 5,
+      "id": 25,
+      "titulo": "Crosby, Stills & Nash - Southern Cross (Larkin Poe)",
+      "url": "https://www.youtube.com/watch?v=V7EEDJf5DHg"
     }
   ]
 }
