@@ -1,5 +1,5 @@
+/* eslint-disable import/prefer-default-export */
 import styled from 'styled-components';
-
 
 export const FooterBase = styled.footer`
   background: var(--black);
@@ -13,4 +13,7 @@ export const FooterBase = styled.footer`
   @media (max-width: 800px) {
     margin-bottom: 50px;
   }
+`;
+export const Logo = styled.img`
+  height: 33px;
 `;

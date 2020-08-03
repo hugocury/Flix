@@ -1,11 +1,12 @@
 import React from 'react';
-import { FooterBase } from './styles';
+import { FooterBase, Logo } from './styles';
+import logo from '../../assets/img/logo07.png';
 
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+      <a href="https://flix-wheat.vercel.app/">
+        <Logo src={logo} alt="Logo Unplugged Flix" />
       </a>
       <p>
         Orgulhosamente desenvolvido por
