@@ -2,66 +2,102 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Unplugged MTV",
-      "cor": "#6BD1FF"
+      "titulo": "MTV Unplugged",
+      "cor": "#830A16"
     },
     {
       "id": 2,
       "titulo": "Acústico MTV",
-      "cor": "#00C86F"
+      "cor": "#830A16"
     },
     {
       "id": 3,
       "titulo": "Lual MTV",
-      "cor": "#9cd33b"
+      "cor": "#830A16"
     },
     {
       "id": 4,
       "titulo": "Versões Acústicas",
-      "cor": "orange"
+      "cor": "#830A16"
     },
     {
       "id": 5,
       "titulo": "Covers",
-      "cor": "red"
+      "cor": "#830A16"
     }
   ],
   "videos": [
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "Skin and Bones",
+      "titulo": "Foo Fighters - Skin and Bones (2006)",
       "url": "https://www.youtube.com/watch?v=fOWfM2Sp5k4"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "Liam - Unplugged MTV",
+      "titulo": "Liam - MTV Unplugged (03/08/2019)",
       "url": "https://www.youtube.com/watch?v=z-7umhXUZ4c"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "Noel Gallagher",
+      "titulo": "Noel Gallagher - Sitting her in silence (26/11/2006)",
       "url": "https://www.youtube.com/watch?v=ZkxJCXvqOFk"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "Pearl Jam - Unplugged MTV",
+      "titulo": "Pearl Jam - MTV Unplugged (16/03/1992)",
       "url": "https://www.youtube.com/watch?v=j3aG2dX4eXo"
     },
     {
       "id": 5,
       "categoriaId": 1,
-      "titulo": "Stone Temple Pilots - Unplugged MTV",
-      "url": "https://www.youtube.com/watch?v=Sr9CN8VeKb4"
+      "titulo": "Stone Temple Pilots - MTV Unplugged - (17/11/1993)",
+      "url": "https://www.youtube.com/watch?v=uAoirtqHTL0&list=PLtGwA9Y0WV1o3U9Zylz1QpGi54Er-Pk-w"
     },
     {
       "id": 6,
       "categoriaId": 1,
-      "titulo": "Alanis Morissette - Unplugged MTV",
-      "url": "https://www.youtube.com/watch?v=fjaagQ_lm2A"
+      "titulo": "Nirvana - MTV Unplugged (18/11/1993)",
+      "url": "https://www.youtube.com/watch?v=_24pJQUj7zg&list=PLyUVnCw_kLV0J2OjvADXZL-NrSghlEgDg"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Crosby, Stills & Nash - MTV Unplugged (11/08/1990) part1",
+      "url": "https://www.youtube.com/watch?v=BDPTX2GUuuM"
+    },
+    {
+      "id": 26,
+      "categoriaId": 1,
+      "titulo": "Crosby, Stills & Nash - MTV Unplugged (11/08/1990) part2",
+      "url": "https://www.youtube.com/watch?v=G8qVplhJyFQ"
+    },
+    {
+      "id": 27,
+      "categoriaId": 1,
+      "titulo": "Joe Cocker - MTV Unplugged (02/07/1992)",
+      "url": "https://www.youtube.com/watch?v=k5mmDfOqSLc"
+    },
+    {
+      "id": 28,
+      "categoriaId": 1,
+      "titulo": "Paul McCartney - MTV Unplugged (25/01/1991)",
+      "url": "https://www.youtube.com/watch?v=fGfB9yeHsQc&list=PLD89FA225460333C4"
+    },
+    {
+      "id": 29,
+      "categoriaId": 1,
+      "titulo": "Neil Young - MTV Unplugged (16/11/1992)",
+      "url": "https://www.youtube.com/watch?v=6R-ioccTrKk&list=PLjL9an1HH9lLZfWCkah36Naox7wpmFTwB"
+    },
+    {
+      "id": 33,
+      "categoriaId": 1,
+      "titulo": "Alice in Chains - MTV Unplugged (10/04/1996)",
+      "url": "https://www.youtube.com/watch?v=9EKi2E9dVY8&list=PLclODpQJhNz7vm19Ab3k31tUX7dncoup4"
     },
     {
       "id": 9,
@@ -86,6 +122,24 @@
       "categoriaId": 2,
       "titulo": "Acústico MTV - Cidade Negra",
       "url": "https://www.youtube.com/watch?v=yiE3ep-cE8c"
+    },
+    {
+      "id": 49,
+      "categoriaId": 2,
+      "titulo": "Acústico MTV - Legião Urbana",
+      "url": "https://www.youtube.com/watch?v=8-cM5uiUsQk"
+    },
+    {
+      "id": 50,
+      "categoriaId": 2,
+      "titulo": "Acústico MTV - Ira!",
+      "url": "https://www.youtube.com/watch?v=dbGMKSI9Yv4"
+    },
+    {
+      "id": 51,
+      "categoriaId": 2,
+      "titulo": "Acústico MTV - Capital Inicial",
+      "url": "https://www.youtube.com/watch?v=PqG0pCG1vzU"
     },
     {
       "id": 13,
@@ -118,6 +172,18 @@
       "url": "https://www.youtube.com/watch?v=XejeLbi-NeU"
     },
     {
+      "id": 47,
+      "categoriaId": 3,
+      "titulo": "Charlie Brown Jr - Lual MTV",
+      "url": "https://www.youtube.com/watch?v=Z-_tpzzrrQw"
+    },
+    {
+      "id": 48,
+      "categoriaId": 3,
+      "titulo": "Titãs - Lual MTV",
+      "url": "https://www.youtube.com/watch?v=BxQq4i7xQuU"
+    },
+    {
       "id": 17,
       "categoriaId": 4,
       "titulo": "Eric Clapton - Layla",
@@ -142,6 +208,90 @@
       "url": "https://www.youtube.com/watch?v=qEyk4SlOks4"
     },
     {
+      "id": 30,
+      "categoriaId": 4,
+      "titulo": "Page & Plant - Battle of Evermore",
+      "url": "https://www.youtube.com/watch?v=qlzpJL3XBPU"
+    },
+    {
+      "id": 31,
+      "categoriaId": 4,
+      "titulo": "Page & Plant - The Rain Song",
+      "url": "https://www.youtube.com/watch?v=BeDylD8dV7U"
+    },
+    {
+      "id": 34,
+      "categoriaId": 4,
+      "titulo": "The Corrs - Little Wing Unplugged 1999",
+      "url": "https://www.youtube.com/watch?v=1pkbD33CnsE"
+    },
+    {
+      "id": 35,
+      "categoriaId": 4,
+      "titulo": "Dave Grohl - Wheels (acustic)",
+      "url": "https://www.youtube.com/watch?v=ygYYOeVoVgk"
+    },
+    {
+      "id": 36,
+      "categoriaId": 4,
+      "titulo": "Chris Cornell - Nothing Compares 2 U",
+      "url": "https://www.youtube.com/watch?v=IuUDRU9-HRk"
+    },
+    {
+      "id": 37,
+      "categoriaId": 4,
+      "titulo": "Chris Cornell - Billie Jean",
+      "url": "https://www.youtube.com/watch?v=Ts9ohAPdgXU"
+    },
+    {
+      "id": 38,
+      "categoriaId": 4,
+      "titulo": "Korn - Freak On A Leash - MTV Unplugged",
+      "url": "https://www.youtube.com/watch?v=lq4r79_5YlU"
+    },
+    {
+      "id": 39,
+      "categoriaId": 4,
+      "titulo": "Korn - Creep - MTV Unplugged",
+      "url": "https://www.youtube.com/watch?v=1R3EjWjpMV4"
+    },
+    {
+      "id": 40,
+      "categoriaId": 4,
+      "titulo": "Korn - Blind - MTV Unplugged",
+      "url": "https://www.youtube.com/watch?v=agbl5j0fVAM"
+    },
+    {
+      "id": 41,
+      "categoriaId": 4,
+      "titulo": "Thorm Yorke - Paranoid Android (acustic)",
+      "url": "https://www.youtube.com/watch?v=t2zwKH4g2xE"
+    },
+    {
+      "id": 42,
+      "categoriaId": 4,
+      "titulo": "Mumford & Sons - Roll Away Your Stone",
+      "url": "https://www.youtube.com/watch?v=Yqx1Ng9gG4w"
+    },
+    {
+      "id": 43,
+      "categoriaId": 4,
+      "titulo": "Arctic Monkeys - Snap Out Of It",
+      "url": "https://www.youtube.com/watch?v=tlBIK9cTPS4"
+    },
+    {
+      "id": 44,
+      "categoriaId": 4,
+      "titulo": "Arctic Monkeys - Do I Wanna know",
+      "url": "https://www.youtube.com/watch?v=F586JktJyEg"
+    },
+    {
+      "id": 45,
+      "categoriaId": 4,
+      "titulo": "Bon Iver - Skinny Love",
+      "url": "https://www.youtube.com/watch?v=-83qrKGZ3ps"
+    },
+    {
       "id": 21,
       "categoriaId": 5,
       "titulo": "David Bowie - Ziggy Stardust (Ben Owen)",
@@ -158,6 +308,17 @@
       "categoriaId": 5,
       "titulo": "Ramble On - Led Zeppelin (Paige Hargrove)",
       "url": "https://www.youtube.com/watch?v=TUNeXauTC20"
+    },
+    {
+      "id": 46,
+      "categoriaId": 5,
+      "titulo": "Killer Queen - Queen (Corey Heuvel)",
+      "url": "https://www.youtube.com/watch?v=rGHssZnuUPw"
+    },    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "Everybody Hurts - R.E.M (acustic cover) Marc Martel",
+      "url": "https://www.youtube.com/watch?v=7eIiKYsMJDw"
     },
     {
       "categoriaId": 5,

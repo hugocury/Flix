@@ -1,183 +1,236 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"     
-      },
+      "titulo": "MTV Unplugged",
+      "cor": "#830A16",
+
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Foo Fighters - Skin and Bones (2006)",
+          "url": "https://www.youtube.com/watch?v=fOWfM2Sp5k4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Liam - MTV Unplugged (03/08/2019)",
+          "url": "https://www.youtube.com/watch?v=z-7umhXUZ4c"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Noel Gallagher - Sitting her in silence (26/11/2006)",
+          "url": "https://www.youtube.com/watch?v=ZkxJCXvqOFk"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Pearl Jam - MTV Unplugged (16/03/1992)",
+          "url": "https://www.youtube.com/watch?v=j3aG2dX4eXo"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Stone Temple Pilots - MTV Unplugged - (17/11/1993)",
+          "url": "https://www.youtube.com/watch?v=uAoirtqHTL0&list=PLtGwA9Y0WV1o3U9Zylz1QpGi54Er-Pk-w"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Nirvana - MTV Unplugged (18/11/1993)",
+          "url": "https://www.youtube.com/watch?v=_24pJQUj7zg&list=PLyUVnCw_kLV0J2OjvADXZL-NrSghlEgDg"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Crosby, Stills & Nash - MTV Unplugged (11/08/1990) part1",
+          "url": "https://www.youtube.com/watch?v=BDPTX2GUuuM"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Crosby, Stills & Nash - MTV Unplugged (11/08/1990) part2",
+          "url": "https://www.youtube.com/watch?v=G8qVplhJyFQ"
+        },
+        {
+          "titulo": "Joe Cocker - MTV Unplugged (02/07/1992)",
+          "url": "https://www.youtube.com/watch?v=k5mmDfOqSLc"
+        },
+        {
+          "titulo": "Paul McCartney - MTV Unplugged (25/01/1991)",
+          "url": "https://www.youtube.com/watch?v=fGfB9yeHsQc&list=PLD89FA225460333C4"
+        },
+        {
+          "titulo": "Neil Young - MTV Unplugged (16/11/1992)",
+          "url": "https://www.youtube.com/watch?v=6R-ioccTrKk&list=PLjL9an1HH9lLZfWCkah36Naox7wpmFTwB"
+        },
+        {
+          "titulo": "Alice in Chains - MTV Unplugged (10/04/1996)",
+          "url": "https://www.youtube.com/watch?v=9EKi2E9dVY8&list=PLclODpQJhNz7vm19Ab3k31tUX7dncoup4"
+        }
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "Acústico MTV",
+      "cor": "#830A16",
+
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Acústico MTV - Charlie Brown Jr",
+          "url": "https://www.youtube.com/watch?v=OnVSsDlxAq4"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Acústico MTV - Cássia Eller",
+          "url": "https://www.youtube.com/watch?v=VxpaVsEo23o"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Acústico MTV - Lulu Santos",
+          "url": "https://www.youtube.com/watch?v=VXmjkhvu0RQ"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Acústico MTV - Cidade Negra",
+          "url": "https://www.youtube.com/watch?v=yiE3ep-cE8c"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Acústico MTV - Legião Urbana",
+          "url": "https://www.youtube.com/watch?v=8-cM5uiUsQk"
+        },
+        {
+          "titulo": "Acústico MTV - Ira!",
+          "url": "https://www.youtube.com/watch?v=dbGMKSI9Yv4"
+        },
+        {
+          "titulo": "Acústico MTV - Capital Inicial",
+          "url": "https://www.youtube.com/watch?v=PqG0pCG1vzU"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Lual MTV",
+      "cor": "#830A16",
+
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Raimundos - Lual MTV",
+          "url": "https://www.youtube.com/watch?v=nZMAsVDSnRA&t=191s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Marcelo D2 - Lual MTV?",
+          "url": "https://www.youtube.com/watch?v=fqXAKbvbs68"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Natiruts - Lual MTV",
+          "url": "https://www.youtube.com/watch?v=BLssqx9jvnA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "O Rappa - Lual MTV",
+          "url": "https://www.youtube.com/watch?v=lVhht-lSnak"
+        },
+        {
+          "titulo": "Los Hermanos - Lual MTV",
+          "url": "https://www.youtube.com/watch?v=XejeLbi-NeU"
+        },
+        {
+          "titulo": "Charlie Brown Jr - Lual MTV",
+          "url": "https://www.youtube.com/watch?v=Z-_tpzzrrQw"
+        },
+        {
+          "titulo": "Titãs - Lual MTV",
+          "url": "https://www.youtube.com/watch?v=BxQq4i7xQuU"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Versões Acústicas",
+      "cor": "#830A16",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Eric Clapton - Layla",
+          "url": "https://www.youtube.com/watch?v=sQ5idZHWVn4"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Pearl Jam - Future Days",
+          "url": "https://www.youtube.com/watch?v=Acz4F_iIz_w"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Mumford and Sons - The Cave",
+          "url": "https://www.youtube.com/watch?v=We2hHZAneI8"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Dave Grohl - Everlong",
+          "url": "https://www.youtube.com/watch?v=qEyk4SlOks4"
+        },
+        {
+          "titulo": "Page & Plant - Battle of Evermore",
+          "url": "https://www.youtube.com/watch?v=qlzpJL3XBPU"
+        },
+        {
+          "titulo": "Page & Plant - The Rain Song",
+          "url": "https://www.youtube.com/watch?v=BeDylD8dV7U"
+        },
+        {
+          "titulo": "The Corrs - Little Wing Unplugged 1999",
+          "url": "https://www.youtube.com/watch?v=1pkbD33CnsE"
+        },
+        {
+          "titulo": "Dave Grohl - Wheels (acustic)",
+          "url": "https://www.youtube.com/watch?v=ygYYOeVoVgk"
+        },
+        {
+          "titulo": "Chris Cornell - Nothing Compares 2 U",
+          "url": "https://www.youtube.com/watch?v=IuUDRU9-HRk"
+        },
+        {
+          "titulo": "Chris Cornell - Billie Jean",
+          "url": "https://www.youtube.com/watch?v=Ts9ohAPdgXU"
+        },
+        {
+          "titulo": "Korn - Freak On A Leash - MTV Unplugged",
+          "url": "https://www.youtube.com/watch?v=lq4r79_5YlU"
+        },
+        {
+          "titulo": "Korn - Creep - MTV Unplugged",
+          "url": "https://www.youtube.com/watch?v=1R3EjWjpMV4"
+        },
+        {
+          "titulo": "Korn - Blind - MTV Unplugged",
+          "url": "https://www.youtube.com/watch?v=agbl5j0fVAM"
+        },
+        {
+          "titulo": "Thorm Yorke - Paranoid Android (acustic)",
+          "url": "https://www.youtube.com/watch?v=t2zwKH4g2xE"
+        },
+        {
+          "titulo": "Mumford & Sons - Roll Away Your Stone",
+          "url": "https://www.youtube.com/watch?v=Yqx1Ng9gG4w"
+        },
+        {
+          "titulo": "Arctic Monkeys - Snap Out Of It",
+          "url": "https://www.youtube.com/watch?v=tlBIK9cTPS4"
+        },
+        {
+          "titulo": "Arctic Monkeys - Do I Wanna know",
+          "url": "https://www.youtube.com/watch?v=F586JktJyEg"
+        },
+        {
+          "titulo": "Bon Iver - Skinny Love",
+          "url": "https://www.youtube.com/watch?v=-83qrKGZ3ps"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Covers",
+      "cor": "#830A16",
+      
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "David Bowie - Ziggy Stardust (Ben Owen)",
+          "url": "https://www.youtube.com/watch?v=f4aD0Aoleks"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Elton John - Tiny Dancer (Khadhu Capanema)",
+          "url": "https://www.youtube.com/watch?v=2rq9oBqiiSE"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Ramble On - Led Zeppelin (Paige Hargrove)",
+          "url": "https://www.youtube.com/watch?v=TUNeXauTC20"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Killer Queen - Queen (Corey Heuvel)",
+          "url": "https://www.youtube.com/watch?v=rGHssZnuUPw"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Everybody Hurts - R.E.M (acustic cover) Marc Martel",
+          "url": "https://www.youtube.com/watch?v=7eIiKYsMJDw"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Crosby, Stills & Nash - Southern Cross (Larkin Poe)",
+          "url": "https://www.youtube.com/watch?v=V7EEDJf5DHg"
         }
       ]
     }

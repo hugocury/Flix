@@ -1,7 +1,7 @@
 /* eslint-disable linebreak-style */
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Logo from '../../assets/img/logo06.png';
+import Logo from '../../assets/img/logo07.png';
 import './Menu.css';
 import Button from '../Button';
 // import ButtonLink from './components/ButtonLink';
