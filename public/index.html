@@ -46,14 +46,28 @@
     -->
 <script src="https://unpkg.com/blip-chat-widget" type="text/javascript">
 </script>
+<script src="https://unpkg.com/blip-chat-widget@1.6.*" type="text/javascript"></script>
 <script>
     (function () {
         window.onload = function () {
-            new BlipChat()
-            .withAppKey('Zmlyc3RvbmUyOjc0ZTZkZTczLTIwOWMtNDRlNi05Y2IzLWQwNTdkN2ZkZTVhNg==')
-            .withButton({"color":"#ae021d","align":"left","icon":"https://blipmediastore.blob.core.windows.net/public-medias/Media_02917dd6-f927-4ac3-bc89-7ac24283d07f"})
-            .withCustomCommonUrl('https://chat.blip.ai/')
-            .build();
+
+          var customStyle = `#message-input {
+              "align":"left",
+              box-sizing: border-box;
+              border: 1px solid #0CC8CC;
+              border-radius: 6px;
+              background: #252B39;
+            }
+            #message-input textarea {
+              background: #252B39;
+              font-size: 12px;
+              color: white;
+            }`
+
+          var blipClient = new BlipChat()
+          .withAppKey('Zmlyc3RvbmUyOjc0ZTZkZTczLTIwOWMtNDRlNi05Y2IzLWQwNTdkN2ZkZTVhNg==')
+          .withCustomStyle(customStyle);
+          blipClient.build();
         }
     })();
 </script>
