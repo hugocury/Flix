@@ -51,18 +51,16 @@
     (function () {
         window.onload = function () {
 
-          var customStyle = `#blip-chat-container {
-              align: left;
-              border-left: 60px;
-              box-sizing: border-box;
-              border: 1px solid #CDCDCD;
-              border-radius: 6px;
-              background: #CDCDCD;
+          var customStyle = `#blip-chat-open-iframe {
+              margin-right: 90%;
+            }
+            #blip-chat-iframe{
+              margin-right: 60%;
             }
             #message-input textarea {
               background: #CDCDCD;
-              font-size: 40px;
-              color: green;
+              font-size: 12px;
+              color: white;
             }`
 
           var blipClient = new BlipChat()
