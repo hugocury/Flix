@@ -47,34 +47,14 @@
 <script src="https://unpkg.com/blip-chat-widget" type="text/javascript">
 </script>
 <script src="https://unpkg.com/blip-chat-widget@1.6.*" type="text/javascript"></script>
- <style>
-      #blip-chat-open-iframe {
-        margin-right: 90%;
-      }
-      #blip-chat-iframe {
-        margin-right: 75%;
-      }
-    </style>
 <script>
     (function () {
         window.onload = function () {
-
-          var customStyle = `#blip-chat-open-iframe {
-              margin-right: 90%;
-            }
-            #blip-chat-iframe{
-             margin-right: 75%;
-            }
-            #message-input textarea {
-              background: #CDCDCD;
-              font-size: 12px;
-              color: white;
-            }`
-
-          var blipClient = new BlipChat()
-          .withAppKey('Zmlyc3RvbmUyOjc0ZTZkZTczLTIwOWMtNDRlNi05Y2IzLWQwNTdkN2ZkZTVhNg==')
-          .withCustomStyle(customStyle);
-          blipClient.build();
+            new BlipChat()
+            .withAppKey('Zmlyc3RvbmUyOjc0ZTZkZTczLTIwOWMtNDRlNi05Y2IzLWQwNTdkN2ZkZTVhNg==')
+            .withButton({"color":"#ae021d","icon":"https://blipmediastore.blob.core.windows.net/public-medias/Media_02917dd6-f927-4ac3-bc89-7ac24283d07f"})
+            .withCustomCommonUrl('https://chat.blip.ai/')
+            .build();
         }
     })();
 </script>
