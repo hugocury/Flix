@@ -46,17 +46,21 @@
     -->
 <script src="https://unpkg.com/blip-chat-widget" type="text/javascript">
 </script>
-<script src="https://unpkg.com/blip-chat-widget@1.6.*" type="text/javascript"></script>
 <script>
-    (function () {
-        window.onload = function () {
-            new BlipChat()
-            .withAppKey('Zmlyc3RvbmUyOjc0ZTZkZTczLTIwOWMtNDRlNi05Y2IzLWQwNTdkN2ZkZTVhNg==')
-            .withButton({"color":"#ae021d","icon":"https://blipmediastore.blob.core.windows.net/public-medias/Media_02917dd6-f927-4ac3-bc89-7ac24283d07f"})
-            .withCustomCommonUrl('https://chat.blip.ai/')
-            .build();
-        }
-    })();
+  (function () {
+      window.onload = function () {     
+        var customStyle = `#blip-chat-container {
+          position: sticky;
+      }`
+
+          new BlipChat()
+          .withAppKey('Y3JlZGlmaXRyb3V0ZXIxOjZiZDVjN2Q4LTlkYjEtNGU0Yi1iZjE0LTViMjNiOGM3YjM5Nw==')
+          .withCustomStyle(customStyle)
+          .withButton({"color":"#ff7500","icon":""})
+          .withCustomCommonUrl('https://credifit.chat.blip.ai/')
+          .build();
+      }
+  })();
 </script>
                                     
   </body>
