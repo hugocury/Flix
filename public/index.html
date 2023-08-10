@@ -44,19 +44,24 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
-    <script src="https://unpkg.com/blip-chat-widget" type="text/javascript">
-    </script>
-    <script>
-        (function () {
-            window.onload = function () {
-                new BlipChat()
+<script src="https://unpkg.com/blip-chat-widget" type="text/javascript"></script>
+<script>
+    (function () {
+        window.onload = function () {
+            new BlipChat()
                 .withAppKey('Zmlyc3RvbmUyOjc0ZTZkZTczLTIwOWMtNDRlNi05Y2IzLWQwNTdkN2ZkZTVhNg==')
+<<<<<<< HEAD
                 .withButton({"color":"#ae021d","icon":"https://blipmediastore.blob.core.windows.net/public-medias/Media_39498c17-fd75-4c8f-994d-5b2ff196cfe2"})
                 .withCustomCommonUrl('https://chat.blip.ai/')
+=======
+                .withButton({"color":"#139ffa","icon":""})
+                .withCustomCommonUrl('https://hugocury-f8f22.chat.blip.ai/')
+>>>>>>> e353d7fa3d77115db853896d73461d161b7c79fc
                 .build();
-            }
-        })();
-    </script>
-                                    
+        }
+    })();
+</script>
+            
+    
   </body>
 </html>
